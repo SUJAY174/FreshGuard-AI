@@ -1,0 +1,7 @@
+{
+  "name": "FreshGuard AI",
+  "description": "An advanced AI-powered food freshness and spoilage risk predictor using multi-factor environmental analysis and explainable AI insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
